@@ -1,2 +1,2 @@
 # CEIRD
-code for MICCAI2023 paper
+Code in preparation; will be ready prior to the MICCAI 2023 conference
